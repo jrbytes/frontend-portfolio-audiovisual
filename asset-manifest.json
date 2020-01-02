@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/frontend-portfolio-audiovisual/static/css/main.7fc2d707.chunk.css",
-    "main.js": "/github.io/frontend-portfolio-audiovisual/static/js/main.271f1ee6.chunk.js",
-    "main.js.map": "/github.io/frontend-portfolio-audiovisual/static/js/main.271f1ee6.chunk.js.map",
-    "runtime-main.js": "/github.io/frontend-portfolio-audiovisual/static/js/runtime-main.e9ee7733.js",
-    "runtime-main.js.map": "/github.io/frontend-portfolio-audiovisual/static/js/runtime-main.e9ee7733.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/github.io/frontend-portfolio-audiovisual/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.8113a29f.chunk.js": "/github.io/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js",
-    "static/js/2.8113a29f.chunk.js.map": "/github.io/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js.map",
-    "index.html": "/github.io/frontend-portfolio-audiovisual/index.html",
-    "precache-manifest.ef174da9816bb61cdc5e3bbf1543dc44.js": "/github.io/frontend-portfolio-audiovisual/precache-manifest.ef174da9816bb61cdc5e3bbf1543dc44.js",
-    "service-worker.js": "/github.io/frontend-portfolio-audiovisual/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/github.io/frontend-portfolio-audiovisual/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.7fc2d707.chunk.css.map": "/github.io/frontend-portfolio-audiovisual/static/css/main.7fc2d707.chunk.css.map",
-    "static/js/2.8113a29f.chunk.js.LICENSE": "/github.io/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js.LICENSE"
+    "main.css": "/frontend-portfolio-audiovisual/static/css/main.7fc2d707.chunk.css",
+    "main.js": "/frontend-portfolio-audiovisual/static/js/main.ffedb97d.chunk.js",
+    "main.js.map": "/frontend-portfolio-audiovisual/static/js/main.ffedb97d.chunk.js.map",
+    "runtime-main.js": "/frontend-portfolio-audiovisual/static/js/runtime-main.4df94a9e.js",
+    "runtime-main.js.map": "/frontend-portfolio-audiovisual/static/js/runtime-main.4df94a9e.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/frontend-portfolio-audiovisual/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.8113a29f.chunk.js": "/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js",
+    "static/js/2.8113a29f.chunk.js.map": "/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js.map",
+    "index.html": "/frontend-portfolio-audiovisual/index.html",
+    "precache-manifest.102189bd1d8a479c81609ba88950b62c.js": "/frontend-portfolio-audiovisual/precache-manifest.102189bd1d8a479c81609ba88950b62c.js",
+    "service-worker.js": "/frontend-portfolio-audiovisual/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/frontend-portfolio-audiovisual/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.7fc2d707.chunk.css.map": "/frontend-portfolio-audiovisual/static/css/main.7fc2d707.chunk.css.map",
+    "static/js/2.8113a29f.chunk.js.LICENSE": "/frontend-portfolio-audiovisual/static/js/2.8113a29f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9ee7733.js",
+    "static/js/runtime-main.4df94a9e.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.8113a29f.chunk.js",
     "static/css/main.7fc2d707.chunk.css",
-    "static/js/main.271f1ee6.chunk.js"
+    "static/js/main.ffedb97d.chunk.js"
   ]
 }
