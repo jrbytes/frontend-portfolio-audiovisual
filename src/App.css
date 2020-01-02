@@ -1,0 +1,22 @@
+body {
+  background-color: #282c34;
+  color: white;
+}
+
+Col {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2.2em;
+  margin: 0.9em 0;
+  text-align: center;
+}
+
+.embed-responsive {
+  margin: 0 0 3em 0
+}
+
+.softwares {
+  padding: 3em 0 4em 0;
+}
